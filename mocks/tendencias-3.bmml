@@ -1,0 +1,270 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1583" measuredH="1290" mockupW="1583" mockupH="1290">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1583" h="1290" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::FieldSet" x="432" y="147" w="970" h="50" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::SubTitle" x="201" y="228" w="-1" h="-1" measuredW="147" measuredH="31" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Tendencias</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TitleWindow" x="197" y="403" w="214" h="639" measuredW="450" measuredH="400" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <text>Tendencias%20por%20Categor%EDa</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::List" x="198" y="425" w="213" h="617" measuredW="100" measuredH="615" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>106%0A205%0A206%0A206%20SW%0A207%0A207%20SW%0A3008%0A306%0A307%0A307%20SW%0A308%0A405%0A406%0A407%0A407%20SW%0A408%0A504%0A504%20Pick%20Up%0A505%0A605%0A607%0A806%0A807%0ABoxer%0AExpert%0AHoggar%0APartner%0ARCZ%0AOtros%20Modelos</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::TitleWindow" x="432" y="309" w="970" h="321" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <text>Productos%20m%E1s%20buscados</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="__group__" x="956" y="355" w="172" h="45" measuredW="172" measuredH="45" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="0" locked="false" isInGroup="94">
+          <controlProperties>
+            <text>21.%20Peugeot%20307%20hdi</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="0" y="26" w="-1" h="-1" measuredW="172" measuredH="19" zOrder="1" locked="false" isInGroup="94">
+          <controlProperties>
+            <text>22.%20Peugeot%20206%20xs%20premium</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="95" controlTypeID="__group__" x="701" y="355" w="126" h="253" measuredW="126" measuredH="253" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="70" measuredH="19" zOrder="0" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>11.%20%20Peugeot</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="0" y="26" w="-1" h="-1" measuredW="100" measuredH="19" zOrder="1" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>12.%20%20Peugeot%20207</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="0" y="52" w="-1" h="-1" measuredW="101" measuredH="19" zOrder="2" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>13.%20%20Peugeot%20406</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="0" y="78" w="-1" h="-1" measuredW="64" measuredH="19" zOrder="3" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>14.%20207%20gti</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="0" y="104" w="-1" h="-1" measuredW="61" measuredH="19" zOrder="4" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>15.%20206%20xs</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="0" y="130" w="-1" h="-1" measuredW="44" measuredH="19" zOrder="5" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>16.%20306</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="0" y="156" w="-1" h="-1" measuredW="43" measuredH="19" zOrder="6" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>17.%20207</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="0" y="182" w="-1" h="-1" measuredW="44" measuredH="19" zOrder="7" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>18.%20504</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="0" y="208" w="-1" h="-1" measuredW="40" measuredH="19" zOrder="8" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>19.206</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="0" y="234" w="-1" h="-1" measuredW="126" measuredH="19" zOrder="9" locked="false" isInGroup="95">
+          <controlProperties>
+            <text>20.%20peugeot%20504%20gnc</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="96" controlTypeID="__group__" x="453" y="355" w="92" h="253" measuredW="92" measuredH="253" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="89" measuredH="19" zOrder="0" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>1.%20Peugeot%20206</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="0" y="26" w="-1" h="-1" measuredW="92" measuredH="19" zOrder="1" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>2.%20Peugeot%20405</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="0" y="52" w="-1" h="-1" measuredW="91" measuredH="19" zOrder="2" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>3.%20Peugeot%20306</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="0" y="78" w="-1" h="-1" measuredW="92" measuredH="19" zOrder="3" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>4.%20Peugeot%20504</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="0" y="104" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="4" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>5.%20206</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="0" y="130" w="-1" h="-1" measuredW="91" measuredH="19" zOrder="5" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>6.%20Peugeot%20205</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="0" y="156" w="-1" h="-1" measuredW="90" measuredH="19" zOrder="6" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>7.%20Peugeot%20307</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="0" y="182" w="-1" h="-1" measuredW="88" measuredH="19" zOrder="7" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>8.%20Peugeot%20106</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="0" y="208" w="-1" h="-1" measuredW="90" measuredH="19" zOrder="8" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>9.%20Peugeot%20505</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="0" y="234" w="-1" h="-1" measuredW="43" measuredH="19" zOrder="9" locked="false" isInGroup="96">
+          <controlProperties>
+            <text>10.%20307</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::TitleWindow" x="197" y="309" w="214" h="81" measuredW="450" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <text>Filtrado%20por</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::TitleWindow" x="208" y="342" w="192" h="25" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <text>Peugeot</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="1075" y="125" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hola%20JuanPerez%20%28%20%20%20%20%20%20%20%20%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Link" x="1178" y="128" w="-1" h="-1" measuredW="26" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>salir</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Link" x="1221" y="128" w="-1" h="-1" measuredW="177" measuredH="19" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mi%20Cuenta%20%20%7C%20%20Vender%20%20%7C%20%20Ayuda</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="197" y="277" w="-1" h="-1" measuredW="346" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tendencias%2C%20Autos%20Motos%20y%20Otros%2C%20%20Autos%20y%20Camionetas</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Button" x="1061" y="161" w="-1" h="-1" measuredW="155" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar%20en%20Tendencias</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::TextInput" x="447" y="161" w="466" h="-1" measuredW="112" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ejemplo%3A%20%27iphone%27</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::ComboBox" x="924" y="162" w="114" h="-1" measuredW="89" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ubicaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::HRule" x="197" y="1080" w="1203" h="-1" measuredW="100" measuredH="10" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Link" x="560" y="1063" w="-1" h="-1" measuredW="478" measuredH="19" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sobre%20MercadoLibre%20%20%7C%20%20Centro%20de%20Seguridad%20%20%7C%20%20Mapa%20del%20Sitio%20%20%7C%20%20Ver%20otros%20pa%EDses</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="681" y="1107" w="-1" h="-1" measuredW="236" measuredH="20" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>12</size>
+        <text>Copyright%20%A9%201999-2013%20MercadoLibre%20S.R.L</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Label" x="439" y="1088" w="-1" h="-1" measuredW="720" measuredH="20" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>12</size>
+        <text>El%20uso%20de%20este%20sitio%20web%20implica%20la%20aceptaci%F3n%20de%20los%20T%E9rminos%20y%20Condiciones%20y%20de%20las%20Pol%EDticas%20de%20Privacidad%20de%20MercadoLibre%20S.R.L</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::TextArea" x="197" y="125" w="214" h="72" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LOGO</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::ScratchOut" x="208" y="125" w="192" h="72" measuredW="205" measuredH="107" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
