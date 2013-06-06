@@ -47,31 +47,31 @@
         <text>Tendencias</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::SubTitle" x="351" y="234" w="-1" h="-1" measuredW="357" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::SubTitle" x="351" y="234" w="-1" h="-1" measuredW="154" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
-        <text>Conoce%20las%20%FAltimas%20tendencias%20del%20Mercado</text>
+        <text>Los%20m%E1s%20buscados</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="353" y="259" w="748" h="41" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="353" y="259" w="748" h="21" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Aqu%ED%20puedes%20encontrar%20informaci%F3n%20actualizada%20sobre%20las%20principales%20tendencias%20del%20mercado.%20Conoce%20las%20palabras%20m%E1s%20buscadas%2C%20los%20productos%20m%E1s%20visitados%20y%20los%20art%EDculos%20m%E1s%20comprados%20en%20Internet.</text>
+        <text>En%20esta%20secci%F3n%20encontrar%E1s%20las%20palabras%20m%E1s%20populares%20y%20los%20productos%20m%E1s%20visitados%20del%20mercado.</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="351" y="311" w="750" h="317" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="351" y="287" w="750" h="317" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>roundedSolid</borderStyle>
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::SubTitle" x="370" y="326" w="-1" h="-1" measuredW="193" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::SubTitle" x="370" y="302" w="-1" h="-1" measuredW="193" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <size>16</size>
         <text>B%FAsquedas%20m%E1s%20populares</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="362" y="356" w="184" h="257" measuredW="100" measuredH="246" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="362" y="332" w="184" h="257" measuredW="100" measuredH="246" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -80,7 +80,7 @@
         <text>1.%20%20fiat%20147%0A2.%20%20fiat%20uno%0A3.%20%20autos%20usados%0A4.%20%20fiat%20600%0A5.%20%20autos%0A6.%20%20volkswagen%20gol%0A7.%20%20peugeot%20206%0A8.%20%20fiat%20128%0A9.%20%20blackberry%0A10.%20celulares</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::List" x="552" y="356" w="184" h="257" measuredW="100" measuredH="246" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::List" x="552" y="332" w="184" h="257" measuredW="100" measuredH="246" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -89,7 +89,7 @@
         <text>11.%20%20tablet%0A12.%20%20motos%0A13.%20%20gol%0A14.%20%20chevrolet%20corsa%0A15.%20%20notebook%0A16.%20%20ford%20falcon%0A17.%20%20zapatillas%20adidas%0A18.%20%20ford%20ka%0A19.%20%20renault%20clio%0A20.%20renault%2019</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::List" x="737" y="356" w="184" h="257" measuredW="100" measuredH="246" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::List" x="737" y="332" w="184" h="257" measuredW="100" measuredH="246" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -98,7 +98,7 @@
         <text>21.%20%20peugeot%20306%0A22.%20samsung%20galaxy%0A23.%20rollers%0A24.%20renault%2012%0A25.%20iphone%205%0A26.%20fiat%20uno%20scr%0A27.%20sillones%0A28.%20golf%0A29.%20juegos%20ps3%0A30.%20corsa</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::List" x="912" y="356" w="184" h="257" measuredW="100" measuredH="246" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::List" x="912" y="332" w="184" h="257" measuredW="100" measuredH="246" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -110,6 +110,7 @@
     <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="132" y="236" w="-1" h="-1" measuredW="97" measuredH="17" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
+        <color>16777215</color>
         <size>14</size>
         <text>Por%20categorias</text>
       </controlProperties>
@@ -142,7 +143,12 @@
     </control>
     <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="221" w="213" h="42" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13421772</color>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Tooltip" x="421" y="350" w="148" h="33" measuredW="164" measuredH="33" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>13.123%20b%FAsquedas</text>
       </controlProperties>
     </control>
   </controls>
