@@ -1,0 +1,163 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1144" measuredH="1189" mockupW="1066" mockupH="1189">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="177" y="125" w="-1" h="-1" measuredW="124" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <size>20</size>
+        <text>MercadoLibre</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="351" y="116" w="750" h="40" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="777" y="123" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <text>Buscar</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="359" y="123" w="412" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::LinkBar" x="757" y="92" w="-1" h="-1" measuredW="344" measuredH="18" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Reg%EDstrate%2CIngresar%2C%20%20%20%20%20%20%20%2CMi%20cuenta%2CVender%2CAyuda</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="900" y="93" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="114" y="180" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tendencias</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="567" y="257" w="530" h="532" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="132" y="236" w="-1" h="-1" measuredW="97" measuredH="17" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>14</size>
+        <text>Por%20categorias</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="111" y="112" w="66" h="44" measuredW="204" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../v2/assets/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Menu" x="114" y="259" w="214" h="-1" measuredW="150" measuredH="681" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accesorios%20para%20Veh%EDculos%0A---%0AAnimales%20y%20Mascotas%0A---%0AAntig%FCedades%0A---%0AAutos%20Motos%20y%20Otros%0A---%0ABeb%E9s%0A---%0ACelulares%20y%20Tel%E9fonos%0A---%0AColeccionables%20y%20Hobbies%0A---%0AComputaci%F3n%0A---%0AConsolas%20y%20Videojuegos%0A---%0AC%E1maras%20y%20Accesorios%0A---%0ADeportes%20y%20Fitness%0A---%0AElectrodom%E9sticos%20y%20Aires%20Ac.%0A---%0AElectr%F3nica%20Audio%20y%20Video%0A---%0AEntradas%20para%20Eventos%0A---%0AHogar%20Muebles%20y%20Jard%EDn%0A---%0AIndustrias%20y%20Oficinas%0A---%0AInmuebles%0A---%0AInstrumentos%20Musicales%0A---%0AJoyas%20y%20Relojes%0A---%0AJuegos%20y%20Juguetes%0A---%0ALibros%20Revistas%20y%20Comics%0A---%0AM%FAsica%20Pel%EDculas%20y%20Series%0A---%0AOtras%20categor%EDas%0A---%0ARopa%20y%20Accesorios%0A---%0ASalud%20y%20Belleza%0A---%0AServicios</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="221" w="213" h="42" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Menu" x="326" y="259" w="214" h="-1" measuredW="150" measuredH="343" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Acc.%20para%20Motos%20y%20Cuatriciclos%0A---%0AAccesorios%20N%E1uticos%0A---%0AAccesorios%20para%20Autos%0A---%0AAccesorios%20para%20Camiones%0A---%0AAccesorios%20para%20Camionetas%0A---%0AAudio%0A---%0AGNC%0A---%0AHerramientas%0A---%0ALimpieza%20de%20Veh%EDculos%0A---%0ANavegadores%20GPS%20para%20Veh%EDculos%0A---%0AOtros%0A---%0ASeguridad%20Veh%EDcular%0A---%0ATuning</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::PointyButton" x="114" y="261" w="229" h="-1" measuredW="19" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Canvas" x="328" y="257" w="211" h="345" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="132" y="264" w="-1" h="-1" measuredW="155" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Accesorios%20para%20Veh%EDculos</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::List" x="582" y="296" w="184" h="257" measuredW="100" measuredH="246" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <text>1.%20llantas%2017%0A2.%20llantas%2015%0A3.%20cascos%20motos%0A4.%20llantas%2014%0A5.%20llantas%0A6.%20stereo%20pioneer%0A7.%20cascos%0A8.%20kit%20xenon%0A9.%20llantas%2013%0A10.%20parlantes%206x9</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::List" x="582" y="536" w="184" h="245" measuredW="100" measuredH="246" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <text>11.%20%20%20equipo%20gnc%0A12.%20%20estereos%20pioneer%0A13.%20%20cubiertas%0A14.%20%20baterias%20autos%0A15.%20%20stereo%0A16.%20%20xenon%0A17.%20%20butacas%20deportivas%0A18.%20%20parlantes%20pioneer%0A19.%20%20butacas%0A20.%20neumaticos</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::List" x="838" y="296" w="184" h="257" measuredW="100" measuredH="246" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <text>21.%20%20%20estereos%0A22.%20%20alarma%20auto%0A23.%20%20tacometro%0A24.%20%20cubiertas%2015%0A25.%20%20accesorios%20tuning%0A26.%20%20stereos%0A27.%20%20guantes%20moto%0A28.%20%20potencia%20boss%0A29.%20%20faros%20auxiliares%0A30.%20%20estereos%20autos</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::List" x="838" y="537" w="184" h="244" measuredW="100" measuredH="198" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <text>31.%20%20%20cubiertas%2017%0A32.%20%20cubiertas%2014%0A33.%20%20fundas%20para%20autos%0A34.%20%20casco%20moto%0A35.%20%20luces%20xenon%0A36.%20%20cierre%20centralizado%0A37.%20%20stereo%20usb%0A38.%20%20llantas%20audi</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="78" y="0" w="1066" h="1189" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mercadolibre%20-%20Tendencias%20Home%0Ahttp%3A//www.tendencias.mercadolibre.com.ar</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::HRule" x="114" y="1088" w="987" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::LinkBar" x="114" y="1069" w="-1" h="-1" measuredW="445" measuredH="18" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Sobre%20MercadoLibre%2C%20Centro%20de%20Seguridad%2C%20Mapa%20del%20sitio%2C%20Ver%20otros%20pa%EDses</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Paragraph" x="117" y="1105" w="863" h="41" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>El%20uso%20de%20este%20sitio%20web%20implica%20la%20aceptaci%F3n%20de%20los%20%5BT%E9rminos%20y%20Condiciones%5D%20y%20de%20las%20%5BPol%EDticas%20de%20Privacidad%5D%20de%20MercadoLibre%20S.R.L.%20%0ACopyright%20%A9%201999-2013%20MercadoLibre%20S.R.L.</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="589" y="274" w="-1" h="-1" measuredW="137" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>16</size>
+        <text>Los%20m%E1s%20buscados</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
