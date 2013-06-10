@@ -163,14 +163,7 @@
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="141" controlTypeID="com.balsamiq.mockups::SubTitle" x="332" y="322" w="-1" h="-1" measuredW="193" measuredH="19" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>0</color>
-        <size>16</size>
-        <text>B%FAsquedas%20m%E1s%20populares</text>
-      </controlProperties>
-    </control>
-    <control controlID="142" controlTypeID="com.balsamiq.mockups::List" x="324" y="348" w="184" h="257" measuredW="100" measuredH="246" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::List" x="324" y="348" w="184" h="257" measuredW="100" measuredH="246" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -179,7 +172,7 @@
         <text>1.%20guantes%20moto%0A2.%20guantes%20fox%0A3.%20guantes%20para%20moto%0A4.%20guantes%20motocross%0A5.%20guantes%20para%20motos%0A6.%20guantes%20alpinestars%0A7.%20guantes%20de%20moto%0A8.%20guantes%20motorman%0A9.%20guantes%20moto%20pista%0A10.%20guantes%20motos</text>
       </controlProperties>
     </control>
-    <control controlID="143" controlTypeID="com.balsamiq.mockups::List" x="558" y="348" w="184" h="257" measuredW="100" measuredH="246" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::List" x="558" y="348" w="184" h="257" measuredW="100" measuredH="246" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -188,7 +181,7 @@
         <text>11.%20guantes%20cross%0A12.%20guantes%20enduro%0A13.%20guantes%20thor%0A14.%20guantes%20alpinestar%0A15.%20guante%20moto%0A16.%20guantes%20fox%20bomber%0A17.%20guantes%20cuero%20moto%0A18.%20guantes%20monster%0A19.%20guantes%20de%20motos%0A20.%20guantes%20de%20moto%20cross</text>
       </controlProperties>
     </control>
-    <control controlID="144" controlTypeID="com.balsamiq.mockups::List" x="791" y="348" w="184" h="257" measuredW="100" measuredH="246" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::List" x="791" y="348" w="184" h="257" measuredW="100" measuredH="246" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -197,7 +190,7 @@
         <text>21.%20guantes%20pro%20biker%0A22.%20guantes%20motocros%0A23.%20guantes%20fox%20360%0A24.%20guantes%20acerbis%0A25.%20guantes%20para%20motocross%0A26.%20guantes%20de%20neoprene%20moto%0A27.%20guantes%20moto%20fox%0A28.%20guantes%20moto%20invierno%0A29.%20guante%20para%20moto%0A30.%20guantes%20de%20motocross</text>
       </controlProperties>
     </control>
-    <control controlID="145" controlTypeID="com.balsamiq.mockups::List" x="1025" y="348" w="184" h="257" measuredW="100" measuredH="126" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::List" x="1025" y="348" w="184" h="257" measuredW="100" measuredH="126" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -206,7 +199,7 @@
         <text>31.%20guantes%20suomy%0A32.%20guantes%20alpinestars%20pista</text>
       </controlProperties>
     </control>
-    <control controlID="146" controlTypeID="com.balsamiq.mockups::List" x="108" y="317" w="184" h="21" measuredW="100" measuredH="126" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::List" x="108" y="317" w="184" h="21" measuredW="100" measuredH="126" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
@@ -215,7 +208,7 @@
         <text>Guantes</text>
       </controlProperties>
     </control>
-    <control controlID="148" controlTypeID="com.balsamiq.mockups::List" x="108" y="294" w="184" h="27" measuredW="100" measuredH="126" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::List" x="108" y="294" w="184" h="27" measuredW="100" measuredH="126" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderStyle>none</borderStyle>
@@ -225,6 +218,14 @@
         <size>14</size>
         <text>Guantes</text>
         <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::SubTitle" x="333" y="323" w="-1" h="-1" measuredW="222" measuredH="19" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Lo%20m%E1s%20buscado%20en%20Guantes%20</text>
       </controlProperties>
     </control>
   </controls>
