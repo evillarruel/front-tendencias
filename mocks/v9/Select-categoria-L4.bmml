@@ -1,0 +1,431 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1278" measuredH="1499" mockupW="1200" mockupH="1499">
+  <controls>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="684" y="295" w="554" h="555" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::List" x="711" y="346" w="184" h="257" measuredW="100" measuredH="246" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <text>1.%20%20carteras%20jackie%20smith%0A2.%20%20santa%20piedad%0A3.%20%20carteras%20cuero%20vacuno%0A4.%20%20carteras%20de%20cuero%20vacuno%0A5.%20%20cartera%20de%20cuero%20vacuno%0A6.%20%20cartera%20cuero%20vacuno%0A7.%20%20carteras%20de%20cuero%20vacuno%20%0A8.%20%20carteras%20jakie%20smith%0A9.%20%20carteras%20jacki%20smith%0A10.%20%20carteras%20de%20cueros%20vacuno</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::List" x="711" y="586" w="184" h="244" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <text>11.%20%20carteras%20jackie%20smith%0A12.%20%20carteras%20de%20cuero%20vacuno%20usadas%0A13.%20%20carteras%20cuero%20vacuno%0A14.%20%20carteras%20de%20cuero%20vacuno%20usadas</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::List" x="109" y="528" w="194" h="25" measuredW="100" measuredH="126" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>18</rowHeight>
+        <size>14</size>
+        <text>Bolsas%20Ecol%F3gicas</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::List" x="109" y="549" w="193" h="21" measuredW="100" measuredH="126" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Bolsas%20Ecol%F3gicas</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::List" x="109" y="319" w="179" h="68" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Candados%0AGanchos%20Cuelga%20Carteras%0AOtros</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::List" x="109" y="293" w="179" h="28" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Accesorios</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::List" x="109" y="403" w="179" h="115" measuredW="100" measuredH="126" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Billeteras%0AMonederos%0AOtros%0APorta%20Celulares%0APorta%20Cosm%E9ticos%0APorta%20Documentos%20y%20Tarjetas%0ARi%F1oneras</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::List" x="109" y="377" w="179" h="28" measuredW="100" measuredH="126" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Billeteras%20y%20Monederos</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::List" x="109" y="580" w="138" h="25" measuredW="100" measuredH="126" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>18</rowHeight>
+        <size>14</size>
+        <text>Bolsos</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::List" x="492" y="342" w="179" h="28" measuredW="100" measuredH="126" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Otros</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::List" x="492" y="471" w="148" h="18" measuredW="100" measuredH="126" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Porta%20Cosm%E9ticos</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::List" x="492" y="445" w="186" h="29" measuredW="100" measuredH="126" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Porta%20Cosm%E9ticos</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::SubTitle" x="719" y="319" w="-1" h="-1" measuredW="198" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Lo%20m%E1s%20buscado%20en%20Cuero</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::List" x="302" y="297" w="145" h="20" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>18</rowHeight>
+        <size>14</size>
+        <text>Carteras</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="78" y="0" w="1200" h="1499" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mercadolibre%20-%20Tendencias%20Home%0Ahttp%3A//www.tendencias.mercadolibre.com.ar</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SubTitle" x="179" y="125" w="-1" h="-1" measuredW="124" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <size>20</size>
+        <text>MercadoLibre</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="351" y="116" w="887" h="40" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::PointyButton" x="777" y="123" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <text>Buscar</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TextInput" x="359" y="123" w="412" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="__group__" x="894" y="92" w="344" h="18" measuredW="344" measuredH="18" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::LinkBar" x="0" y="0" w="-1" h="-1" measuredW="344" measuredH="18" zOrder="0" locked="false" isInGroup="89">
+          <controlProperties>
+            <size>12</size>
+            <text>Reg%EDstrate%2CIngresar%2C%20%20%20%20%20%20%20%2CMi%20cuenta%2CVender%2CAyuda</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="143" y="1" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="89">
+          <controlProperties>
+            <icon>HeartIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Image" x="113" y="112" w="66" h="44" measuredW="204" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../v2/assets/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::SubTitle" x="115" y="222" w="-1" h="-1" measuredW="147" measuredH="31" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Tendencias</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::HRule" x="115" y="247" w="1123" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::List" x="492" y="418" w="179" h="24" measuredW="100" measuredH="126" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Valijas</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::List" x="492" y="397" w="186" h="25" measuredW="100" measuredH="126" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>18</rowHeight>
+        <size>14</size>
+        <text>Valijas</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::List" x="492" y="317" w="148" h="19" measuredW="100" measuredH="126" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Portafolios</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::List" x="492" y="293" w="186" h="29" measuredW="100" measuredH="126" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Portafolios</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::SubTitle" x="114" y="260" w="79" h="-1" measuredW="68" measuredH="16" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Tendencias</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="206" y="255" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>13</size>
+        <text>Ropa%20y%20Accesorios</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="182" y="260" w="-1" h="-1" measuredW="16" measuredH="11" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::List" x="302" y="514" w="125" h="37" measuredW="100" measuredH="126" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Maletines%20Porta%0AMaquillajes</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::List" x="302" y="473" w="179" h="41" measuredW="100" measuredH="126" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>18</rowHeight>
+        <size>14</size>
+        <text>Maletines%20Porta%20%0AMaquillajes</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::List" x="302" y="558" w="179" h="28" measuredW="100" measuredH="126" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Mochilas</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::List" x="302" y="608" w="169" h="28" measuredW="100" measuredH="126" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>24</rowHeight>
+        <size>14</size>
+        <text>Morrales</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::List" x="109" y="601" w="169" h="23" measuredW="100" measuredH="126" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Bolsos</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::List" x="302" y="582" w="169" h="20" measuredW="100" measuredH="126" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Mochilas</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::List" x="302" y="632" w="169" h="19" measuredW="100" measuredH="126" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Morrales</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::List" x="492" y="366" w="169" h="19" measuredW="100" measuredH="126" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <text>Otros</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="341" y="255" w="-1" h="-1" measuredW="166" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>13</size>
+        <text>Bolsos%2C%20Carteras%20y%20Billeteras</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="317" y="260" w="-1" h="-1" measuredW="16" measuredH="11" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="532" y="255" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>3355443</color>
+        <size>13</size>
+        <text>Mujer</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="507" y="260" w="-1" h="-1" measuredW="16" measuredH="11" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="592" y="255" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>3355443</color>
+        <size>13</size>
+        <text>Carteras</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="568" y="260" w="-1" h="-1" measuredW="16" measuredH="11" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Paragraph" x="117" y="1421" w="863" h="41" measuredW="200" measuredH="80" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>El%20uso%20de%20este%20sitio%20web%20implica%20la%20aceptaci%F3n%20de%20los%20%5BT%E9rminos%20y%20Condiciones%5D%20y%20de%20las%20%5BPol%EDticas%20de%20Privacidad%5D%20de%20MercadoLibre%20S.R.L.%20%0ACopyright%20%A9%201999-2013%20MercadoLibre%20S.R.L.</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::HRule" x="114" y="1404" w="1124" h="-1" measuredW="100" measuredH="10" zOrder="46" locked="false" isInGroup="-1"/>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::LinkBar" x="114" y="1385" w="-1" h="-1" measuredW="445" measuredH="18" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Sobre%20MercadoLibre%2C%20Centro%20de%20Seguridad%2C%20Mapa%20del%20sitio%2C%20Ver%20otros%20pa%EDses</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Label" x="672" y="255" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>3355443</color>
+        <size>13</size>
+        <text>Cuero</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="648" y="260" w="-1" h="-1" measuredW="16" measuredH="11" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::List" x="302" y="317" w="169" h="146" measuredW="100" measuredH="150" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <selectedIndex>1</selectedIndex>
+        <text>Charol%0ACuero%0ACuero%20Ecol%F3gico%0AGamuza%0AHilo%20y%20Lana%0ARaso%0ASimil%20Cuero%0ATela%0AOtros%20Materiales</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
